@@ -4324,6 +4324,18 @@
 		(layer "Edge.Cuts")
 		(uuid "75fae133-d2cc-4a4e-bca0-0d266d00512a")
 	)
+	(gr_text "水平線"
+		(at 115 19.5 0)
+		(layer "F.SilkS")
+		(uuid "540f7bc4-cb99-42d6-bb46-e2a63bd94cef")
+		(effects
+			(font
+				(size 2.032 2.032)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 52.3 43.74)
 		(end 52.3 35)

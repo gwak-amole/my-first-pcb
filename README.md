@@ -15,7 +15,7 @@ Here's screenshots of my PCB and Schematic!
 DRC is all clear!
 
 ## CAD Case Model
-<img width="900" height="367" alt="Screenshot 2026-07-13 at 22 31 37" src="https://github.com/user-attachments/assets/d268cb6c-f4ea-466a-9139-c59ceb0e6b9e" />
+<img width="900" height="367" alt="Screenshot 2026-07-13 at 22 31 37" src="https://github.com/user-attachments/assets/d268cb6c-f4ea-466a-9139-c59ceb0e6b9e" /><br>
 I made this in Autodesk Fusion360.
 
 ## Firmware
@@ -25,7 +25,6 @@ Firmware was configurated and compiled with QMK.
 I had a lot of fun building my first macropad/hackpad and building my first custom PCB ever. I want to make more macropads just for my games and whatnot.
 
 ## BOM
-This is in USD
 - 1x Seeed Studio XIAO RP2040
 - 4x MX-compatible mechanical switches
 - 4x 1U keycaps

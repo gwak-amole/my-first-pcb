@@ -1,4 +1,4 @@
-# Suiheisen 
+# SuiheisenPad
 My First Macropad and Custom PCB
 
 ## Features:
